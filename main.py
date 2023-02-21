@@ -1,16 +1,20 @@
-# This is a sample Python script.
+# data_type = type(12)
+#
+# vulcanness = "T' Pol"
+#
+# pi = 3.14159
+#
+# hot = True
+#
+# hot = "DEFINITELY"
+#
+# print(data_type)
+# print(type(vulcanness))
+# print(type(pi))
+# print("Is T' Pol hot?\n" + hot)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+num1 = 3
+num2 = 10
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+answer = num2/num1
+print(answer)
