@@ -1,6 +1,12 @@
-sentence = 'This is SPARTA!'
+sentence = "The sum of 42 + 69 equals {0} {1}".format(42 + 69, "if you are in a Euclidean universe.")
 
-print(sentence.upper())
+print(sentence)
+
+
+# sentence = 'This is SPARTA!'
+#
+# digit = '69'
+# print(sentence.startswith('T'))
 
 
 
